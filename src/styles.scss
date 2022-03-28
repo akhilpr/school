@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; overflow:hidden}
+table {
+    width: 100%;
+  }
+.table-styel {
+    width: 75%;
+    left: 14%;
+    position: absolute;
+    top: 170px;
+}
+.table-head{
+    position: absolute;
+    /* text-align: center; */
+    width: 100%;
+    left: 14%;
+    top: 116px;
+    font-size: 20px;
+    color: #673ab7;
+    font-weight: bold;
+}
